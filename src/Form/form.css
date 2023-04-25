@@ -1,0 +1,28 @@
+.form{
+        margin-top: 1rem;
+     justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+h3{
+    
+    color: gray;
+    height: 10vh;
+    
+    background-color: rgb(238, 252, 252);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    box-shadow: 5px 5px 5px rgb(134, 134, 134);
+}
+
+.form_container{
+    margin-top: 0.5rem;
+    height: max-content;
+    width: 80vw;
+    box-shadow: 3px 3px 7px 2px rgb(134, 134, 134);
+    padding:  1rem 1rem;
+    
+}
